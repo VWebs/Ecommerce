@@ -1,0 +1,14 @@
+.navbar-header button {
+	color: #FFF;
+}
+
+footer {
+	background-color: #333;
+	color: #FFF;
+	text-align: center;
+	padding: 20px 0;
+}
+
+main {
+	padding-top: 50px;
+}
